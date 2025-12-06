@@ -1,7 +1,7 @@
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 I'm [**Dakota King**](http://dakotavking.dev), I'm a web developer and graphic designer based in Florida.
 
-I design and build websites.
+I design and build websites and mobile apps.
 
 My main tech stack is react, next.js, and tailwind. My favorite tools is creating in adobe create cloud and my wacom tablet.
 
