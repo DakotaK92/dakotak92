@@ -3,7 +3,7 @@ I'm [**Dakota King**](http://dakotavking.dev), I'm a web developer and graphic d
 
 I design and build websites and mobile apps.
 
-My main tech stack is react, next.js, and tailwind. My favorite tools is creating in adobe create cloud and my wacom tablet.
+The main tech stack I use are react, next.js, and tailwindcss. The tools I use when creating are adobe create cloud and my wacom tablet.
 
 I have projects in the works, but my favorite is my personal website.
 
@@ -11,7 +11,7 @@ I have projects in the works, but my favorite is my personal website.
 
 - 🔭 I’m currently working a ecommerce website about a design I created in college. It will include a main page, a section to buy products and accept payment through stripe.
   
--  🌱 I'm currently learning react expo to build more projects mobily.
+-  🌱 I'm currently learning react expo, I want to create app I want to use daily.
 
 -  ⚡Fun Fact: I have two dogs, play video games and read comic books.
 
