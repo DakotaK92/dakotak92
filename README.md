@@ -1,19 +1,32 @@
-## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-I'm [**Dakota King**](http://dakotavking.dev), I'm a web developer and graphic designer based in Florida.
+## Hey, I'm Dakota King <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I design and build websites and mobile apps.
+<strong>Web Developer · Graphic Designer · Creative Builder</strong>
 
-The main tech stack I use are react, next.js, and tailwindcss. The tools I use when creating are adobe create cloud and my wacom tablet.
+- 📍 Based in Florida
 
-I have projects in the works, but my favorite is my personal website.
+- 🌐 Porfolio: [**dakotavking.dev**](http://dakotavking.dev)
 
-## About me
+I design and develop websites and mobile apps — blending clean UI, thoughtful UX, and modern web technologies. 
+My main stack includes React, Next.js, Tailwind CSS, and I create visual assets with Adobe Creative Cloud + a Wacom tablet.
 
-- 🔭 I’m currently working a ecommerce website about a design I created in college. It will include a main page, a section to buy products and accept payment through stripe.
-  
--  🌱 I'm currently learning react expo, I want to create app I want to use daily.
+## 🚀 What I’m Working On 
 
--  ⚡Fun Fact: I have two dogs, play video games and read comic books.
+- E-commerce website based on a brand I created in college
+→ full product catalog, custom UI, Stripe checkout
+
+- Always experimenting with design ideas and personal projects
+
+- Learning React Native + Expo → building practical apps I’d actually use daily
+
+## 👤 About Me
+
+- 🐶 Dog dad ×2
+
+- 🎮 Gamer & comic book reader
+
+- 🎨 Lifelong artist turned developer
+
+- 🥤 Powered by Dr. Pepper + Spotify
 
 ## Technolgies
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
