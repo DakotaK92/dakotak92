@@ -14,13 +14,11 @@ My main stack includes React, Next.js, Tailwind CSS, and I create visual assets 
 - E-commerce website based on a brand I created in college
 → full product catalog, custom UI, Stripe checkout
 
-- Always experimenting with design ideas and personal projects
-
-- Learning React Native + Expo → building practical apps I’d actually use daily
+- A comic app to see see in-store events, a rewards tab, and a pull list and collection of comics
 
 ## 👤 About Me
 
-- 🐶 Dog dad ×2
+- 🐶 Dog dad of 2
 
 - 🎮 Gamer & comic book reader
 
