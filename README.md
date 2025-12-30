@@ -1,6 +1,6 @@
 ## Hey, I'm Dakota King <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-<strong>Web Developer · Graphic Designer · Creative Builder</strong>
+<strong>Web Developer · Graphic Designer</strong>
 
 - 📍 Based in Florida
 
